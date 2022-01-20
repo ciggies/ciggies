@@ -1,6 +1,6 @@
 ### Hi there, I'm ciggies 👋 
 
-[![Twitch Follow](https://i.imgur.com/gjXpI1x.jpg)](https://www.twitch.tv/ciggieslive)
+---
 
 ## I Develop FiveM Scripts
 
